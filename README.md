@@ -1,10 +1,10 @@
 # Hone: A Minimalist Editor to Polish Ideas into Principles
 
+## Project Status
+
+This repository is deprecated and archived. Firebase Hosting for the app has been disabled; the source remains available for reference only.
+
 Hone is a minimalist writing app for facets and articles. A facet is a titled idea (a line that starts with `$`). Articles collect facets and the narrative between them so you can revisit, refine, and hone your thinking.
-
-## Try It Now
-
-Visit the hosted app: https://hone.inshell.art
 
 ## Key Features
 
@@ -67,7 +67,7 @@ MIT. See `LICENSE`.
 
 ## Contributing
 
-Issues and pull requests are welcome.
+This repository is archived. Issues and pull requests are not monitored.
 
 ## Inspired By
 
