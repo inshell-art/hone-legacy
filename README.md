@@ -2,7 +2,9 @@
 
 ## Project Status
 
-This repository is deprecated and archived. Firebase Hosting for the app has been disabled; the source remains available for reference only.
+This repository is the historical browser-based implementation. Firebase Hosting for the app has been disabled; the source remains available for reference only.
+
+The current Hone project is the clean-room local agent-native implementation at https://github.com/inshell-art/hone.
 
 Hone is a minimalist writing app for facets and articles. A facet is a titled idea (a line that starts with `$`). Articles collect facets and the narrative between them so you can revisit, refine, and hone your thinking.
 
@@ -24,8 +26,8 @@ Hone is a minimalist writing app for facets and articles. A facet is a titled id
 ## Quick Start (Local Dev)
 
 ```bash
-git clone https://github.com/inshell-art/hone.git
-cd hone
+git clone https://github.com/inshell-art/hone-legacy.git
+cd hone-legacy
 npm install
 npm run dev
 ```
