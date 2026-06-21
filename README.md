@@ -81,4 +81,4 @@ This repository is archived. Issues and pull requests are not monitored.
 
 ## Contact
 
-Use GitHub Issues: https://github.com/inshell-art/hone/issues
+This historical repository is archived. Issues and pull requests are not monitored here.
